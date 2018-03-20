@@ -8,5 +8,5 @@ void main(void)
 	puts("My dog's name is Cannon");
 	puts("INSTRUCTIONS: You have to figure out what Cannon needs to remain happy");
 
-	
+	puts("");	
 }
