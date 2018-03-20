@@ -13,5 +13,6 @@ void main(void)
 	scanf("%s",name);	
 	
 	puts("CANNON IS CRYING!!");
+	puts("guess a number between 1-5 to see why Cannon is crying");
 	
 }
