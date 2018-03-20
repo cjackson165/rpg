@@ -11,4 +11,7 @@ void main(void)
 	printf("What is your name?");
 	string name;
 	scanf("%s",name);	
+	
+	puts("CANNON IS CRYING!!");
+	
 }
